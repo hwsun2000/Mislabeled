@@ -1,0 +1,25 @@
+data.plus.race.age2.txt£¬ the dataset includes p=19688 genes and two clinical variables race and age.
+
+
+
+data_rand.txt£¬ the dataset includes  p=5000 genes randomly selected from the original dataset.
+
+
+
+ER_PR_HER.txt£¬ the dataset includes expression values of three genes ER, PR and HER2.
+
+
+
+clinical.tnbc.aux2.txt£¬ the dataset includes the results of IHC and FISH test for ER, PR and HER2.
+
+
+
+enetLTS_TNBC_realdata_lastone.R includes the R codes of enetLTS for TNBC dataset and dataset including p=5000 genes randomly selected from the original dataset.
+
+
+
+Ensemble_TNBC_realdata_lastone.R  includes the R codes for ensemble for TNBC dataset and dataset including p=5000 genes randomly selected from the original dataset.
+
+
+
+
