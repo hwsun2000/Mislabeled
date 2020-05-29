@@ -1,0 +1,14 @@
+First of all, simulated data sets can be generated through data_simulated.txt.
+ 
+
+
+enetLTS_simulation.R can be used to apply enetLTS to the simulated datasets.
+
+
+
+Ensemble_simulation.R can be used to apply Ensemble to the simulated datasets. And rankprodbounds.R is sourced in Ensemble_simulation.R
+
+
+
+rlogreg_simulation.m  can be used to apply Rlogreg to the simulated datasets on MATLAB software, and w.mat will be generated, which is the coefficient vector. Then run Rlogreg_simulation.R on R software to evaluate the performance of Rlogreg. 
+
